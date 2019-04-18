@@ -9,6 +9,10 @@
   align-items: center;
 }
 
+#box-container img {
+  max-width: 200px;
+}
+
 #box-container header h1 {
   font-size: 21px;
   padding-left: 15px;

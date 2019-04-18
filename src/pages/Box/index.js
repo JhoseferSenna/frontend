@@ -49,7 +49,7 @@ export default class Box extends Component {
     return (
       <div id="box-container">
         <header>
-          <img src={logo} alt="" id="logo" />
+          <img id="logo" src={logo} alt="" />
           <h1>{this.state.box.title}</h1>
         </header>
 
